@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Erkhemtur(roaziy)</h1>
 <h3 align="center">🎓 IT student at Mongolia's No. 1 IT school💻 Passionate about software engineering, iOS & Android development, and Learning: React Native, Backend Development, AI advancements</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roaziy&label=Profile%20views&color=0e75b6&style=flat" alt="roaziy" /> </p>
