@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [erkhemtur.netlify.app](erkhemtur.netlify.app)
+- 👨‍💻 All of my projects are available at [erkhemtur.netlify.app](roaziy.dev)
 
 - 📫 How to reach me **roaziy.dev@gmail.com**
 
