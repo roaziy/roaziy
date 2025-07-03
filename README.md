@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [roaziy.dev](roaziy.dev)
+- 👨‍💻 All of my projects are available at [roaziy.dev](https://roaziy.dev)
 
 - 📫 How to reach me **roaziy.dev@gmail.com**
 
