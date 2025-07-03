@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roaziy&label=Profile%20views&color=0e75b6&style=flat" alt="roaziy" /> </p>
 
-<p align="left"> <a href="https://instagram.com/roaziy" target="blank"><img src="https://img.shields.io/instagram/follow/roaziy?logo=instagram&style=for-the-badge" alt="roaziy" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
