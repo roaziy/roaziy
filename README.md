@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/roaziy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roaziy" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/roaziy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roaziy" height="30" width="40" /></a> -->
+<a href="https://x.com/roaziy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/500px-X_icon.svg.png" alt="roaziy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roaziy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roaziy" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/erkhemtur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erkhemtur" height="30" width="40" /></a> -->
 <a href="https://instagram.com/roaziy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roaziy" height="30" width="40" /></a>
