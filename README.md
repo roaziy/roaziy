@@ -12,4 +12,4 @@
 
 ### Connect with me:
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/roaziy) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/roaziy) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/roaziy)
+[![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/48px-X_icon.svg.png)](https://x.com/roaziy) &nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/roaziy) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/roaziy)
