@@ -12,4 +12,4 @@
 
 ### Connect with me:
 
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/roaziy) [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/roaziy) [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/roaziy)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/roaziy) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/roaziy) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/roaziy)
