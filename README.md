@@ -5,14 +5,16 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=roaziy&label=Profile%20views&color=0e75b6&style=flat" alt="roaziy" />
 </p>
-
+<!--
 - 🌱 I’m currently learning **Next.js** and **Swift**
 - 👨‍💻 All of my projects are available at [roaziy.dev](https://roaziy.dev)
 - 📫 How to reach me **me@roaziy.dev**
+-->
 
-### Connect with me:
+<!--### Connect with me:
 
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/roaziy) &nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/roaziy) &nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/roaziy)
+-->
 
 <!-- <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
