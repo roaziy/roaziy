@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="512" viewBox="0 0 860 512" role="img" aria-labelledby="t">
+  <title id="t">roaziy: iOS and web developer, software engineer at Shop.mn, IT student at MUST, Ulaanbaatar</title>
+  <style>
+    text { font: 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; fill: #c9d1d9; white-space: pre; }
+    .ttl { font-size: 12px; fill: #8b949e; }
+    .g { fill: #3fb950; } .c { fill: #79c0ff; font-weight: 700; } .d { fill: #8b949e; }
+    .r { fill: #ff7b72; font-weight: 700; } .o { fill: #ffa657; } .k { fill: #79c0ff; } .dir { fill: #58a6ff; font-weight: 700; }
+    .cur { fill: #c9d1d9; }
+
+    /* timeline: every line starts hidden, each element sets its own delay inline */
+    .l  { opacity: 0; animation: on .01s forwards; }
+    .co { animation: off .01s forwards; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes on { to { opacity: 1; } }
+    @keyframes off { to { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    /* typing: cover + cursor slide right one char (8.4px) per step; distance = chars * 8.4 */
+    @keyframes t1 { to { transform: translateX(50.4px); } }
+    @keyframes t2 { to { transform: translateX(67.2px); } }
+    @keyframes t3 { to { transform: translateX(109.2px); } }
+    @keyframes t4 { to { transform: translateX(126px); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .l { animation: none !important; opacity: 1; }
+      .ty { display: none; }
+      .blink { animation: none; }
+    }
+  </style>
+
+  <defs><clipPath id="w"><rect width="860" height="512" rx="10"/></clipPath></defs>
+
+  <g clip-path="url(#w)">
+    <rect width="860" height="512" fill="#0d1117"/>
+    <rect width="860" height="36" fill="#161b22"/>
+    <rect y="36" width="860" height="1" fill="#30363d"/>
+    <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="60" cy="18" r="6" fill="#28c840"/>
+    <text class="ttl" x="430" y="22" text-anchor="middle">roaziy@ulaanbaatar: ~ — zsh</text>
+
+    <!-- $ whoami -->
+    <g class="l" style="animation-delay:.3s">
+      <text class="g" x="24" y="66">➜</text><text class="c" x="40.8" y="66">~</text>
+      <text x="57.6" y="66" textLength="50.4" lengthAdjust="spacingAndGlyphs">whoami</text>
+      <g class="ty" style="animation:t1 .42s steps(6) .8s forwards">
+        <rect x="57.6" y="51" width="50.4" height="20" fill="#0d1117"/>
+        <rect class="cur co" x="57.6" y="53" width="8.4" height="17" style="animation-delay:1.5s"/>
+      </g>
+    </g>
+    <text class="l" x="24" y="87" style="animation-delay:1.5s">roaziy <tspan class="d">·</tspan> software engineer @ Shop.mn <tspan class="d">·</tspan> Ulaanbaatar, Mongolia</text>
+
+    <!-- $ neofetch -->
+    <g class="l" style="animation-delay:1.9s">
+      <text class="g" x="24" y="129">➜</text><text class="c" x="40.8" y="129">~</text>
+      <text x="57.6" y="129" textLength="67.2" lengthAdjust="spacingAndGlyphs">neofetch</text>
+      <g class="ty" style="animation:t2 .56s steps(8) 2.4s forwards">
+        <rect x="57.6" y="114" width="67.2" height="20" fill="#0d1117"/>
+        <rect class="cur co" x="57.6" y="116" width="8.4" height="17" style="animation-delay:3.3s"/>
+      </g>
+    </g>
+
+    <!-- ascii ger (25 cols) + info at col 28 -->
+    <g class="l" style="animation-delay:3.3s">
+      <text class="r" x="24" y="150" xml:space="preserve">           .-.           </text>
+      <text x="259.2" y="150"><tspan class="r">roaziy</tspan><tspan class="d">@</tspan><tspan class="r">ulaanbaatar</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.35s">
+      <text class="r" x="24" y="171" xml:space="preserve">       _.-'   '-._       </text>
+      <text class="d" x="259.2" y="171">------------------</text>
+    </g>
+    <g class="l" style="animation-delay:3.4s">
+      <text class="r" x="24" y="192" xml:space="preserve">   _.-'           '-._   </text>
+      <text x="259.2" y="192"><tspan class="k">role</tspan><tspan x="343.2">iOS &amp; web developer</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.45s">
+      <text class="r" x="24" y="213" xml:space="preserve"> .'___________________'. </text>
+      <text x="259.2" y="213"><tspan class="k">work</tspan><tspan x="343.2">software engineer @ Shop.mn</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.5s">
+      <text class="o" x="24" y="234" xml:space="preserve"> |.:.:.:.  ___  .:.:.:.| </text>
+      <text x="259.2" y="234"><tspan class="k">school</tspan><tspan x="343.2">MUST <tspan class="d">·</tspan> information technology</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.55s">
+      <text class="o" x="24" y="255" xml:space="preserve"> |        |   |        | </text>
+      <text x="259.2" y="255"><tspan class="k">stack</tspan><tspan x="343.2">Swift <tspan class="d">·</tspan> TypeScript <tspan class="d">·</tspan> Next.js <tspan class="d">·</tspan> Express</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:3.6s">
+      <text class="o" x="24" y="276" xml:space="preserve"> |________|___|________| </text>
+      <text x="259.2" y="276"><tspan class="k">learning</tspan><tspan x="343.2">React Native <tspan class="d">·</tspan> backend <tspan class="d">·</tspan> AI</tspan></text>
+    </g>
+    <text class="l" x="259.2" y="297" style="animation-delay:3.65s"><tspan class="k">shipping</tspan><tspan x="343.2">Shagai <tspan class="d">·</tspan> AR iPad game for Swift Student Challenge '26</tspan></text>
+    <g class="l" style="animation-delay:3.7s">
+      <rect x="259.2" y="305" width="25.2" height="16" fill="#484f58"/>
+      <rect x="284.4" y="305" width="25.2" height="16" fill="#ff7b72"/>
+      <rect x="309.6" y="305" width="25.2" height="16" fill="#3fb950"/>
+      <rect x="334.8" y="305" width="25.2" height="16" fill="#d29922"/>
+      <rect x="360" y="305" width="25.2" height="16" fill="#58a6ff"/>
+      <rect x="385.2" y="305" width="25.2" height="16" fill="#bc8cff"/>
+      <rect x="410.4" y="305" width="25.2" height="16" fill="#39c5cf"/>
+      <rect x="435.6" y="305" width="25.2" height="16" fill="#b1bac4"/>
+    </g>
+
+    <!-- $ ls ~/projects -->
+    <g class="l" style="animation-delay:4s">
+      <text class="g" x="24" y="360">➜</text><text class="c" x="40.8" y="360">~</text>
+      <text x="57.6" y="360" textLength="109.2" lengthAdjust="spacingAndGlyphs">ls ~/projects</text>
+      <g class="ty" style="animation:t3 .91s steps(13) 4.5s forwards">
+        <rect x="57.6" y="345" width="109.2" height="20" fill="#0d1117"/>
+        <rect class="cur co" x="57.6" y="347" width="8.4" height="17" style="animation-delay:5.8s"/>
+      </g>
+    </g>
+    <text class="l" x="24" y="381" xml:space="preserve" style="animation-delay:5.8s"><tspan class="dir">Shagai/</tspan>  <tspan class="dir">claude-in-clipboard/</tspan>  <tspan class="dir">ubdelivery/</tspan>  <tspan class="dir">sict-free-classrooms/</tspan>  <tspan class="dir">oyulife/</tspan></text>
+
+    <!-- $ cat contact.txt -->
+    <g class="l" style="animation-delay:6.2s">
+      <text class="g" x="24" y="423">➜</text><text class="c" x="40.8" y="423">~</text>
+      <text x="57.6" y="423" textLength="126" lengthAdjust="spacingAndGlyphs">cat contact.txt</text>
+      <g class="ty" style="animation:t4 1.05s steps(15) 6.7s forwards">
+        <rect x="57.6" y="408" width="126" height="20" fill="#0d1117"/>
+        <rect class="cur co" x="57.6" y="410" width="8.4" height="17" style="animation-delay:8.1s"/>
+      </g>
+    </g>
+    <text class="l" x="24" y="444" xml:space="preserve" style="animation-delay:8.1s">hello@roaziy.dev  <tspan class="d">·</tspan>  roaziy.dev  <tspan class="d">·</tspan>  x.com/roaziy  <tspan class="d">·</tspan>  linkedin.com/in/roaziy</text>
+
+    <!-- idle prompt -->
+    <g class="l" style="animation-delay:8.5s">
+      <text class="g" x="24" y="486">➜</text><text class="c" x="40.8" y="486">~</text>
+      <rect class="cur blink" x="57.6" y="473" width="8.4" height="17"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="859" height="511" rx="10" fill="none" stroke="#30363d"/>
+</svg>
