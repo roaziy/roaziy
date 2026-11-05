@@ -10,17 +10,6 @@ lrwxr-xr-x  linkedin   -> <a href="https://linkedin.com/in/roaziy">linkedin.com/
 </pre>
 
 <pre>
-<b>➜ ~</b> ls ~/projects --pinned
-<a href="https://github.com/roaziy/Shagai"><b>Shagai/</b></a>               AR hand-tracking iPad game, Mongolia's 2,000-year-old tradition · Swift
-<a href="https://github.com/roaziy/claude-in-clipboard"><b>claude-in-clipboard/</b></a>  macOS menu bar app: tap Fn, prompt, code lands on clipboard · Swift
-<a href="https://github.com/roaziy/ubdelivery"><b>ubdelivery/</b></a>           full-stack food delivery, 4 frontends + one REST API · Next.js, Express
-</pre>
-
-<pre><b>➜ ~</b> cat ~/.stack</pre>
-
-<img src="https://skillicons.dev/icons?i=swift,xcode,ts,nextjs,react,nodejs,express&theme=dark" alt="Swift, Xcode, TypeScript, Next.js, React, Node.js, Express" />
-
-<pre>
 <b>➜ ~</b> exit
 
 [Process completed]
