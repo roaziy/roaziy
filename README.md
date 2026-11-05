@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js** and **Swift**
 - 👨‍💻 All of my projects are available at [roaziy.dev](https://roaziy.dev)
-- 📫 How to reach me **me@roaziy.dev**
+- 📫 How to reach me **hello@roaziy.dev**
 
 Connect with me:
 
