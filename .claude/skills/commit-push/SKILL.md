@@ -1,6 +1,6 @@
 ---
 name: commit-push
-description: Commit and push changes in the roaziy profile repo so the release workflow cuts the right semver tag. Use whenever staging, committing, or pushing in this repo (git add, git commit, /commit, git push, "ship it", "release it"). Overrides the global git-commit-and-cicd-management type rules here.
+description: Commit changes in the roaziy profile repo so the release workflow cuts the right semver tag, then ask before pushing. Use whenever staging, committing, or pushing in this repo (git add, git commit, /commit, git push, "ship it", "release it"). Overrides the global git-commit-and-cicd-management type rules here.
 ---
 
 # commit-push (roaziy profile repo)
@@ -39,8 +39,13 @@ attribution guidance. Commits use the user's own git identity only.
 2. Scan the diff for secrets (`.env`, `*.pem`, tokens, keys). Found one → stop and tell the user.
 3. Stage by purpose with `git add <path>`. Unrelated changes go in separate commits. No blind `git add .`.
 4. Commit with the type from the table. Verify with `git log --oneline -5`.
-5. Push only when the user asks: `git push origin main`. Never `--force`, never `--no-verify`.
-6. After push, confirm the release:
+5. **Stop after committing. Do not push on your own.** Ask the user with
+   AskUserQuestion: "Push to main?" Include the version the push would release
+   (highest type since the last `v*` tag, from `git describe --tags --abbrev=0`)
+   in the question. Options: "Push" / "Don't push".
+   - "Don't push" → done; commits stay local.
+   - "Push" → `git push origin main`. Never `--force`, never `--no-verify`.
+6. Only after a push, confirm the release:
    ```sh
    gh run watch "$(gh run list --workflow release.yml -L1 --json databaseId -q '.[0].databaseId')" --exit-status
    gh release view --json tagName,url -q '.tagName + "  " + .url'
