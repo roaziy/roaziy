@@ -1,4 +1,4 @@
-<img src="./assets/terminal.svg" width="100%" alt="Terminal session: whoami prints roaziy. neofetch shows an ASCII ger with role iOS and web developer, location Ulaanbaatar Mongolia, school MUST information technology, stack Swift TypeScript Next.js Express, learning React Native backend AI, shipping Shagai for Swift Student Challenge 2026. ls lists projects Shagai, claude-in-clipboard, ubdelivery, sict-free-classrooms, oyulife." />
+<img src="./assets/terminal.svg" width="100%" alt="Terminal session: whoami prints roaziy. fastfetch shows an ASCII Apple logo with OS macOS, shell zsh, role iOS and web developer, location Ulaanbaatar Mongolia, school MUST information technology, stack Swift TypeScript Next.js Express, learning React Native backend AI, shipping Shagai for Swift Student Challenge 2026. ls lists projects Shagai, claude-in-clipboard, ubdelivery, sict-free-classrooms, oyulife." />
 
 <pre>
 <b>➜ ~</b> ls -l ~/links
