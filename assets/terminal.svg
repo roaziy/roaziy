@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="512" viewBox="0 0 860 512" role="img" aria-labelledby="t">
-  <title id="t">roaziy: iOS and web developer, software engineer at Shop.mn, IT student at MUST, Ulaanbaatar</title>
+  <title id="t">roaziy: iOS and web developer, IT student at MUST, Ulaanbaatar</title>
   <style>
     text { font: 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; fill: #c9d1d9; white-space: pre; }
     .ttl { font-size: 12px; fill: #8b949e; }
@@ -47,7 +47,7 @@
         <rect class="cur co" x="57.6" y="53" width="8.4" height="17" style="animation-delay:1.5s"/>
       </g>
     </g>
-    <text class="l" x="24" y="87" style="animation-delay:1.5s">roaziy <tspan class="d">·</tspan> software engineer @ Shop.mn <tspan class="d">·</tspan> Ulaanbaatar, Mongolia</text>
+    <text class="l" x="24" y="87" style="animation-delay:1.5s">roaziy</text>
 
     <!-- $ neofetch -->
     <g class="l" style="animation-delay:1.9s">
@@ -74,7 +74,7 @@
     </g>
     <g class="l" style="animation-delay:3.45s">
       <text class="r" x="24" y="213" xml:space="preserve"> .'___________________'. </text>
-      <text x="259.2" y="213"><tspan class="k">work</tspan><tspan x="343.2">software engineer @ Shop.mn</tspan></text>
+      <text x="259.2" y="213"><tspan class="k">location</tspan><tspan x="343.2">Ulaanbaatar, Mongolia</tspan></text>
     </g>
     <g class="l" style="animation-delay:3.5s">
       <text class="o" x="24" y="234" xml:space="preserve"> |.:.:.:.  ___  .:.:.:.| </text>
